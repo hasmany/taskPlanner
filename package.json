@@ -12,6 +12,7 @@
   "author": "Hubert Nguyen",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-jasmine": "^2.4.2",
